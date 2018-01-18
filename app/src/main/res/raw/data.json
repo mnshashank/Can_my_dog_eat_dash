@@ -1,0 +1,323 @@
+[
+  {
+    "name" : "carrot",
+    "alternateName" : "carrots",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre and potassium",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "broccoli",
+    "alternateName" : "broccoli",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "asparagus",
+    "alternateName" : "asparagus",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "brussels sprouts",
+    "alternateName" : "brussel sprouts",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "peas",
+    "alternateName" : "pea",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "green beans",
+    "alternateName" : "beans",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "sweet potatoes",
+    "alternateName" : "sweet potato",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "radish",
+    "alternateName" : "radishes",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "cauliflower",
+    "alternateName" : "cauliflowers",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "potato",
+    "alternateName" : "potatoes",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "banana",
+    "alternateName" : "bananas",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "watermelon",
+    "alternateName" : "watermelons",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "apples",
+    "alternateName" : "apple",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "cucumber",
+    "alternateName" : "cucumbers",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "pear",
+    "alternateName" : "pears",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "cherry",
+    "alternateName" : "cherries",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "tomato",
+    "alternateName" : "tomatoes",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "pumpkin",
+    "alternateName" : "pumpkinss",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "bell peppers",
+    "alternateName" : "bell pepper",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "date fruit",
+    "alternateName" : "dates",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "strawberry",
+    "alternateName" : "strawberries",
+    "type" : "veg",
+    "description" : "Great source of vitamin A, K, C, fibre, manganese and folate",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "beetroot",
+    "alternateName" : "beets",
+    "type" : "veg",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "muskmellon",
+    "alternateName" : "cantaloupes",
+    "type" : "veg",
+    "description" : "Beta-carotene, vitamin c, B-6, fibre, folate and potassium",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "peanut butter",
+    "alternateName" : "peanut butters",
+    "type" : "veg",
+    "description" : "Manganese, iron, potassium, calcium",
+    "category" : "other",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "spinach",
+    "alternateName" : "spinaches",
+    "type" : "veg",
+    "description" : "vitamin A, C, B-6, magnesium and has anti-cancer properties",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "lettuce",
+    "alternateName" : "lettuces",
+    "type" : "veg",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "vegetable",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "eggs",
+    "alternateName" : "egg",
+    "type" : "non-veg",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "non-veg",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "blackberries",
+    "alternateName" : "blackberry",
+    "type" : "veg",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "fruit",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "blueberries",
+    "alternateName" : "blueberry",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "non-veg",
+    "eatable" : "yes"
+  },
+  {
+    "name" : "alcohol",
+    "alternateName" : "beer",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "drinks",
+    "eatable" : "no"
+  },
+  {
+    "name" : "apple seed",
+    "alternateName" : "apple seeds",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "veg",
+    "eatable" : "no"
+  },
+  {
+    "name" : "apricot pits",
+    "alternateName" : "apricot pit",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "other",
+    "eatable" : "no"
+  },
+  {
+    "name" : "avacados",
+    "alternateName" : "avacado",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "other",
+    "eatable" : "no"
+  },
+  {
+    "name" : "bread dough",
+    "alternateName" : "pizza dough",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "other",
+    "eatable" : "no"
+  },
+  {
+    "name" : "caffeine",
+    "alternateName" : "coffee",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "other",
+    "eatable" : "no"
+  },
+  {
+    "name" : "chocolate",
+    "alternateName" : "chocolates",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "other",
+    "eatable" : "no"
+  },
+  {
+    "name" : "cooked bones",
+    "alternateName" : "bones",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "other",
+    "eatable" : "no"
+  },
+  {
+    "name" : "corn",
+    "alternateName" : "corn on cob",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "other",
+    "eatable" : "no"
+  },
+  {
+    "name" : "raw fish",
+    "alternateName" : "fish raw",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "other",
+    "eatable" : "no"
+  },
+  {
+    "name" : "grapes",
+    "alternateName" : "raisins",
+    "type" : "other",
+    "description" : "Calcium, Vitamin K, c and protein",
+    "category" : "other",
+    "eatable" : "no"
+  }
+
+]
